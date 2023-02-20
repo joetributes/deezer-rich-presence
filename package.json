@@ -1,0 +1,17 @@
+{
+  "name": "deezer-rich-presence",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "deezer-playing-notifications": "^0.1.2",
+    "discord-rpc": "^4.0.1"
+  }
+}
